@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+.leftBox {
+	border: 2px solid black;
+  padding: 1px;
+	background-color: #7EC0DA;
+  width: 200px;
+}
+
+.leftBox h2 {
+  text-align: center;
+  padding: 2px;
+  border-bottom: solid;
+}
+
+.leftBox p {
+  background-color: #AADAED;
+}
